@@ -1,6 +1,7 @@
 
 
 <h1>💫 About Me:</h1>
+<img src="https://raw.githubusercontent.com/riddhiJainSDE/assets/dd20b06401006bc24ecdaefb34b4839d746941ec/banner.png" alt="Riddhi Jain - Software Engineer Banner" width="100%"/>
 
 <small>
 
