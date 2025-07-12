@@ -1,16 +1,14 @@
-
-
-<h1>💫 About Me:</h1>
+<h1>✫ About Me:</h1>
 <img src="https://raw.githubusercontent.com/riddhiJainSDE/assets/dd20b06401006bc24ecdaefb34b4839d746941ec/banner.png" alt="Riddhi Jain - Software Engineer Banner" width="100%"/>
 
 <small>
 
 <h2>👋 Hey there, I'm Riddhi Jain!</h2>
 
-🛰 <b>I’m currently working on</b><br>
+🚀 <b>I’m currently working on</b><br>
 Natural Language Processing (NLP) — diving into libraries like HuggingFace 🤗, spaCy, and NLTK. I'm also building real-world Machine Learning projects and designing custom datasets from scratch.<br>
 
-🧑‍🤝‍🧑 <b>I’m looking to collaborate on</b><br>
+🢑 <b>I’m looking to collaborate on</b><br>
 Projects that solve real-life problems — whether it's with code, creativity, or compassion. If you have passion and a mission, I’m in!<br>
 
 🤝 <b>I’m looking for help with</b><br>
@@ -47,17 +45,31 @@ I can binge-read any fantasy book in one sitting — dragons, realms, or dystopi
 
 <i>“Let’s turn ideas into impact — one project at a time.”</i>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riddhijainSDE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=riddhijainSDE&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhijainSDE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>📊 GitHub Stats:</h2>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=riddhijainSDE&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhijainSDE&layout=compact&theme=dark&hide_border=false"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=riddhijainSDE&theme=dark&hide_border=false"/>
+    </td>
+  </tr>
+</table>
 
+<h2>🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riddhijainSDE&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=riddhijainSDE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=riddhijainSDE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<h2>🧠 Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
