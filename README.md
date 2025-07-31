@@ -28,9 +28,9 @@ I can binge-read any fantasy book in one sitting — dragons, realms, or dystopi
 💼 <a href="https://www.linkedin.com/in/riddhi-jain-7935a1250">LinkedIn</a><br>
 
 🔗 <b>Coding Profiles</b><br>
-- <a href="https://leetcode.com/riddhi78/">LeetCode</a><br>
-- <a href="https://www.codechef.com/users/riddhi78">CodeChef</a><br>
-- <a href="https://codeforces.com/profile/riddhi78">Codeforces</a><br>
+- <a href="https://leetcode.com/u/jainriddhi78/">LeetCode</a><br>
+- <a href="https://www.codechef.com/users/nice_scene_20">CodeChef</a><br>
+- <a href="https://codeforces.com/profile/rid.dhi_1509">Codeforces</a><br>
 
 💻 <b>Skills & Technologies</b><br>
 <b>Languages:</b> Python, JavaScript, TypeScript, C++, HTML, CSS<br>
